@@ -1,0 +1,5 @@
+Email,Prediction,Spam Probability
+Congratulations! You've won a $1000 gift card. Click here to claim now!,SPAM,95.80%
+"Hi, can we schedule a meeting tomorrow at 3pm to discuss the project?",HAM,5.20%
+URGENT: Your account will be suspended. Verify your identity immediately!,SPAM,96.42%
+Thanks for your email. I'll review the document and get back to you.,HAM,2.97%

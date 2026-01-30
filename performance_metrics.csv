@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Multinomial NB (TF-IDF),1.0,1.0,1.0,1.0
+Multinomial NB (BoW),1.0,1.0,1.0,1.0
+Gaussian NB,1.0,1.0,1.0,1.0
